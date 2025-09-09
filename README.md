@@ -34,7 +34,7 @@ import tensorflow as tf
 ## Project Structure
 ```
 ├── CTA_-_Ridership_-_Daily_Boarding_Totals_20250901.csv
-├── [analysis notebook/script]
+├── [Timeseries Analysis.ipynb]
 └── README.md
 ```
 
@@ -48,7 +48,7 @@ This project implements and compares **11 different time series forecasting mode
   - Short-term (14-days ahead)
 - **Approach**: Single variable time series analysis using historical rail ridership patterns
 
-### Multivariate Models (Models 6-10)
+### Multivariate Models (Models 6-11)
 - **Target**: Rail ridership forecasting using multiple input features
 - **Features**:
   - **Bus ridership**: Correlated transportation mode
